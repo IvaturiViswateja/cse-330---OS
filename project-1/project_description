@@ -1,8 +1,7 @@
-Part 1: (This part of the project is not graded.)
 
 Overview:
 
-For this project you are to write routines that perform standard queuing functions. The functions work on multiple queues, and structure each queue as a doubly linked, circular list.
+you are to write routines that perform standard queuing functions. The functions work on multiple queues, and structure each queue as a doubly linked, circular list.
 
 Data Structures:
 
@@ -35,9 +34,6 @@ All the above routines and data structures are to be placed in 1 file, called �
 Write test routines that thoroughly test the queue implementation. Use multiple queues. Pay special attention to deleting the last element of a q. Also make sure “RotateQ” is behaves properly (strange behavior of this routine means the insert/delete routines have bugs.)
 
 Further warning: Bugs in the Q routines have been the #1 cause for strange errors in the project, always. Careful that you get it right, else things will go bump later.
-
-
-Part 2: (This part of the project is graded.)
 
 
 Overview:
